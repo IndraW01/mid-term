@@ -43,7 +43,7 @@ Untuk menjalankan API secara lokal, ikuti langkah-langkah berikut:
 
 1. Klone repositori:
    ```bash
-   git clone [URL Repositori Publik Github Anda]
+   git clone https://github.com/IndraW01/mid-term.git
    cd video_thumbnail_api
    ```
 
